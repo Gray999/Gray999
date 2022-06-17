@@ -137,7 +137,6 @@ background: url(../img/circle.png) 50% 50%/200px auto no-repeat, url(../img/line
 .main_5{
    width: 100%;
  height: 100px;
-    margin: 0px 500px;
 }
 .title_container_5{
      font-size: 40px;
@@ -146,7 +145,6 @@ background: url(../img/circle.png) 50% 50%/200px auto no-repeat, url(../img/line
 .main_6{
    width: 100%;
  height: 100px;
-    margin: 50px 500px;
 }
 .title_container_6{
      font-size: 40px;
@@ -215,7 +213,7 @@ background: url(../img/report.jpg) 50% 50%/200px auto no-repeat, url(../img/line
     font-size: 18px;
 }
 .title_container_10 h3{
-
+    \
 }
 .title_container_10 input{
  margin: 50px 0 0 30px; 
